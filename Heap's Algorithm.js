@@ -17,7 +17,7 @@ function heapsAlgorithm(arr, len) {
         swap(arr, 0, len-1)
       }
       else {
-        swap(arr, 0, len-1)
+        swap(arr, x, len-1)
       }
     }
   }
